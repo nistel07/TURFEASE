@@ -29,4 +29,4 @@ TURFEASSE is a web application built using the MERN stack (MongoDB, Express, Rea
 - Create and edit ground details.
 - Publish and un-publish grounds which is reflected on the client-side.
 
-![Screenshot (80)](https://github.com/krisgoswami/ground-booking-app/assets/91143716/0bf367df-651d-42d8-9fce-caeddf10b379)
+![Screenshot (80)](https://github.com/nistel07/TURFEASE/blob/main/WhatsApp%20Image%202024-05-15%20at%2020.06.49_b37980f4.jpg)
