@@ -2,7 +2,7 @@
 
 TURFEASSE is a web application built using the MERN stack (MongoDB, Express, React, Node.js) with Tailwind CSS for a sleek user interface. TURFEASE includes an admin panel to manage ground content seamlessly.
 
-![Screenshot (79)]([https://github.com/krisgoswami/ground-booking-app/assets/91143716/7bcd5596-b3a2-48b2-a2a3-c635258e3362](https://github.com/nistel07/TURFEASE/blob/main/WhatsApp%20Image%202024-05-15%20at%2020.06.49_a99a4603.jpg))
+![Screenshot (79)](https://github.com/nistel07/TURFEASE/blob/main/WhatsApp%20Image%202024-05-15%20at%2020.06.49_a99a4603.jpg)
 
 ## Technologies Used
 
